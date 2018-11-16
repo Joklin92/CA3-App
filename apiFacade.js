@@ -1,4 +1,4 @@
-const URL = "http://d087c4a7.ngrok.io/CA3/api/"; //ændrer sig muligvis for hver session
+const URL = "http://10e5e02b.ngrok.io/CA3/api/"; //ændrer sig muligvis for hver session
 
 class ApiFacade {
   

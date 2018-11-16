@@ -193,12 +193,12 @@ class HomeScreen extends React.Component {
     return (
       <View >
         <Touchable onPress={() => navigate('people')} title="Star Wars people data" />
-        <Touchable onPress={() => navigate('planets')} title="Star Wars planets data" />
-        <Touchable onPress={() => navigate('films')} title="Star Wars films data" />
-        <Touchable onPress={() => navigate('species')} title="Star Wars species data" />
-        <Touchable onPress={() => navigate('vehicles')} title="Star Wars vehicles data" />
-        <Touchable onPress={() => navigate('starships')} title="Star Wars starships data" />
-        <Touchable onPress={() => navigate('UNLIMITEDPOWER')} title="Star Wars UNLIMITED data" />
+    {/* <Touchable onPress={() => navigate('planets')} title="Star Wars planets data" />*/ }
+       {/* <Touchable onPress={() => navigate('films')} title="Star Wars films data" />*/ }
+        {/*<Touchable onPress={() => navigate('species')} title="Star Wars species data" />*/ }
+        {/*<Touchable onPress={() => navigate('vehicles')} title="Star Wars vehicles data" />*/ }
+        {/*<Touchable onPress={() => navigate('starships')} title="Star Wars starships data" />*/ }
+        {/*<Touchable onPress={() => navigate('UNLIMITEDPOWER')} title="Star Wars UNLIMITED data" />*/ }
       </View>
     )
   }
